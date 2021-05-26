@@ -27,11 +27,33 @@ Siga os passos abaixo sempre que quiser executar os códigos desse repositório.
     ```sh
     $ source activate mpdl
     ```
-2. Execute o Jupyter Notebook:
+
+2. Instale extensões com widgets do notebook
+    ```sh
+	jupyter nbextension enable --py widgetsnbextension --sys-prefix
+    ```
+
+3. Instale autopep8 (guideline para códigos em Python)
+    ```sh
+	pip install autopep8
+	```
+
+4. Instale extensão para temas para jupyter-notebook
+    ```sh
+	conda install -c conda-forge jupyterthemes
+	```
+
+5. Sugestão de tema (dark mode)
+    ```sh
+	jt -t chesterish
+	```
+
+6. Execute o Jupyter Notebook:
     ```sh
     $ jupyter notebook
     ```
 
+	
 # Dúvidas ou sugestões?
 
 Sinta-se à vontade para sanar qualquer dúvida diretamente com o professor do curso utilizando o contato mais abaixo. Porém, de preferência a fazer perguntas no fórum do curso ou aqui mesmo no Github. Se possível, siga as orientações abaixo de acordo com o tipo da sua dúvida:

@@ -1,0 +1,141 @@
+* [33m88708d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m atualiza versões dos pacotes necessários
+* [33m6fc88ec[m adiciona logo do curso
+* [33m0317b09[m atualiza README
+* [33mbd029f6[m atualiza README
+* [33ma9c1830[m adiciona link do curso no README
+* [33mb912f60[m Update README.md
+* [33mac2dcae[m atualiza README.md
+* [33m2d4adc1[m renomeia método de plot
+* [33ma13cae4[m apaga implementação da checagem dos gradientes
+* [33m9a9b427[m refatora módulo plots
+* [33m4b59a97[m formata notebook de Rede Neural pro formato do curso
+* [33mc4d6d11[m formata notebook pro formato do curso
+* [33madd992c[m formata notebook pro formato do curso
+* [33m3f4b2fa[m formata notebook das Funções de Ativação pro formato do curso
+* [33m7b0ebb0[m altera exercício de implementação do neurônio sigmoid
+* [33m3a3165d[m mostra gráfico 3D do neurônio sigmoid
+* [33mbf0da7e[m formata notebook do Neurônio Sigmoid pro formato do curso
+* [33m1fc55ea[m formata notebook do Adaline pro formato do curso
+* [33me858127[m atualiza notebook do Perceptron
+*   [33m74f42e2[m Merge branch 'professor'
+[32m|[m[33m\[m  
+* [33m|[m [33mb348e82[m atualiza versão do pandas para instalação
+* [33m|[m [33me1aaada[m atualiza README
+* [33m|[m [33m2f4c520[m adiciona link para o questionário
+* [33m|[m [33m6d09ac5[m formata notebook pro formato do curso
+[33m|[m [33m|[m * [33mddd0e89[m[33m ([m[1;31mupstream/professor[m[33m, [m[1;31morigin/professor[m[33m)[m refatora notebook de Redes Neurais
+[33m|[m [33m|[m * [33m3dce865[m refatora módulo plots
+[33m|[m [33m|[m * [33md94fe49[m melhora implementação da softmax, neg_log_likelihood e softmax_neg_log_likelihood
+[33m|[m [33m|[m * [33m2652063[m desfaz mudanças anteriores (bug fix)
+[33m|[m [33m|[m * [33md36c58d[m simplifica implementação da softmax, neg_log_likelihood e softmax_neg_log_likelihood
+[33m|[m [33m|[m * [33mf64c8ff[m mostra gráfico 3D do neurônio sigmoid
+[33m|[m [33m|[m * [33m16b161c[m padroniza código do Adaline no padráo do Perceptron
+[33m|[m [33m|[m * [33md74a12b[m atualiza notebook do Perceptron
+[33m|[m [33m|[m[33m/[m  
+[33m|[m * [33m0314771[m pequenas melhorias no Perceptron
+[33m|[m[33m/[m  
+* [33md1c8a3c[m pequenas melhorias de código
+* [33me28679a[m atualiza código para as versões mais atuais dos pacotes necessários
+* [33m93a042c[m pequenas correções de escrita e melhorias na formatação
+* [33ma81d18f[m melhora conteúdo teórico dos notebooks
+* [33m34887ce[m adiciona métodos de salvar e carregar um modelo pré-treinado
+* [33me1c4d70[m apaga função gaussiana das funções de ativação
+* [33m609f718[m adiciona mae como função de custo para regressão
+* [33maab2f2e[m implementa métodos generators de batchs
+* [33mb1d0ca6[m move gradient checking para utils
+* [33m176d424[m melhora implementação do gradient checking para batch norm
+* [33m72b6a0f[m corrige gradientes da sigmoid_cross_entropy
+* [33ma7d5ba7[m pequena correção do commit anterior
+* [33m4714c7d[m corrige gradientes da mse
+* [33me34cde8[m corrige implementação da regularização e do cálculo do gradiente
+* [33m37cf61b[m corrige bug no cálculo dos gradientes
+* [33m2fe1f9d[m inicio da implementação do gradient checking
+* [33md0a7624[m adiciona gráficos sobre learning rate decay
+* [33m7bffcc3[m move batch normalization para fora de Layer
+* [33m0b4efa8[m remove conteúdo de Keras e Tensorflow do curso
+* [33m2c85c69[m renomeia algumas variáveis do early stopping
+* [33mf551e8e[m adiciona batch normalization
+* [33m66002bf[m adiciona imagens das funções de inicialização de pesos
+*   [33me909289[m Merge branch 'master' of https://github.com/arnaldog12/Manual-Pratico-Deep-Learning
+[35m|[m[36m\[m  
+[35m|[m *   [33mc077f32[m Merge branch 'master' of https://github.com/arnaldog12/Manual-Pratico-Deep-Learning
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m * [1;32m|[m [33mcd48304[m defaz mudanças nas funções de ativação
+[35m|[m * [1;32m|[m [33m9527916[m adiciona imagens das funções de ativação
+* [1;32m|[m [1;32m|[m [33m7742e3c[m adiciona early stopping
+[1;32m|[m [1;32m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;32m|[m   
+* [1;32m|[m [33md05208c[m termina implementação da learning rate decay
+[1;32m|[m[1;32m/[m  
+* [33ma1e3cee[m adiciona learning rate decay
+* [33md0de4f3[m adiciona elu as funções da ativação
+* [33m565cdce[m padroniza y_{pred} para \widehat{y}_i nas fórmulas LaTeX
+* [33m562e028[m adiciona treinamento com mini-batchs
+* [33m9198d28[m remove arquivos de ambiente (.yml)
+* [33m7f0afbe[m corrige problemas de visualização de figuras e fórmulas
+* [33m3ae4eb3[m atualiza README
+* [33mdab2a5f[m atualiza cálculo do custo nos notebooks do Perceptron
+* [33md55f05b[m altera métodos de plot e geração de dados sintéticos
+* [33m754c590[m adiciona momentum
+* [33m1ed35e1[m pequenas modificações nos notebooks de backpropagation e intuição de NN
+* [33m9a74c7e[m transfere regularização para as camadas
+* [33m6adf711[m adiciona exemplo de regressão no adaline
+* [33m0572594[m adiciona Adaline
+* [33md66836e[m atualização do perceptron
+* [33m837815f[m resolve problemas de classificação multiclasse com Keras
+* [33m4778526[m resolve problemas de classificação binária com Keras
+* [33md742274[m adiciona notebook resolvendo os exemplos da rede neural com Keras
+* [33m085edb8[m adiciona congelamento de pesos
+* [33me270063[m adiciona dropout
+* [33m8ccc162[m calcula acurácia nos exemplos de classificação
+* [33madbeb96[m adiciona regularização l1 e l2 à nova implementação
+* [33me6668ff[m métodos de inicialização de pesos para a nova implementação
+* [33m9453651[m Início da nova implementação da Rede Neural
+* [33m46ec2bd[m[33m ([m[1;33mtag: nn_v1[m[33m)[m corrige implementação da regularização da rede
+* [33m47150d7[m adiciona l1 e l2 regularization
+* [33me4589d3[m adiciona métodos de inicialização de pesos e bias
+* [33m0300a21[m adiciona exemplo de regressão cúbica
+* [33mdab6c1c[m adiciona exemplos de classificação multiclasse
+* [33m575e151[m melhora os exemplos de regressão com dados sintéticos
+* [33m97a852b[m adiciona exemplos de regressões na implementação da rede
+* [33ma02a685[m corrige implementação da classificação multiclasse
+* [33m75cd2b4[m adiciona exemplo de classificação multiclasse
+* [33mc7c9666[m adiciona exemplos de classificação binária usando rede neural
+* [33mc3da2a2[m adiciona módulo utils
+* [33m154f212[m adiciona testes da rede neural
+* [33m8b59c9e[m corrige implementação do perceptron
+* [33mb697c15[m melhora legibilidade da implementação da Rede Neural
+* [33ma6c4946[m adiciona notebook sobre intuição de Redes Neurais
+* [33m264b762[m continua implementação da rede neural
+* [33md0da6b6[m pequenas modificações na implementação da rede neural
+* [33m0aad131[m adiciona exercícios de regressão logística
+* [33mb02464d[m adiciona função gaussiana as funções de ativação
+* [33m509c4f4[m inicia implementação da rede neural
+* [33m37a416d[m regressão logística com Keras e TensorFlow
+* [33mf88b92c[m implementação da regressão logística usando numpy
+* [33mbcf4e1b[m incio da implementação da regressão logística com numpy
+* [33m643b7ec[m inicio da regressão logística
+* [33m09cfcd5[m melhora formatação de algumas fórmulas em Backpropagation.ipynb
+* [33md05d900[m adapta perceptron para x_i*w_i + b
+* [33m24f9a95[m adiciona exemplo de classificação no perceptron
+* [33m09bb99f[m atualiza classificação do perceptron com Keras
+* [33m8103d02[m melhora exemplos do perceptron com tensorflow
+*   [33m23ea1e4[m Merge branch 'master' of https://github.com/arnaldog12/Manual-Pratico-Deep-Learning
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m7707701[m pequenas modificações sobre as funções de ativação
+* [1;34m|[m [33m3471ba1[m inicio da classificação com perceptron
+[1;34m|[m[1;34m/[m  
+* [33m60ea633[m adiciona exemplos de regressão com perceptron
+* [33ma41182e[m regressão das medidas com perceptron
+* [33m37eb284[m inicio da implementação do perceptron
+* [33mbadd2d7[m adiciona gif sobre derivada e referências no Backpropagation.ipynb
+* [33mcdfa049[m renomeia README.md
+* [33mbf12f14[m classificação intuitiva das portas and/or
+* [33m9f97c68[m inclusão da backpropagation
+* [33m48f7dca[m inicio da classificação com perceptron
+* [33m24f8cfe[m pequenas atualizações
+* [33me769908[m inicio das funções de ativação
+* [33mfc077c6[m adiciona intuições para o perceptron
+* [33m3341d8f[m adiciona ambiente conda
+* [33mdea5ab8[m inicio do perceptron
+* [33mb041eea[m Initial commit
